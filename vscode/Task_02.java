@@ -1,9 +1,9 @@
+
+ // Вывести все простые числа от 1 до 1000
+ 
+
 package vscode;
 
-/**
- * task2
- * Вывести все простые числа от 1 до 1000
- */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
